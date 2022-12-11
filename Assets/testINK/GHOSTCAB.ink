@@ -11,10 +11,10 @@ Acheron City. Inner City Limits. 11:00 PM.
 Passenger Arte enters your cab.
 #map1
  * [Keep straight.]
- -> G_2a
+    -> G_2a
 
  * [Turn right.]
- -> G_2b
+    -> G_2b
 
    
 
@@ -23,19 +23,19 @@ Passenger Arte enters your cab.
 Passenger June enters your cab.
 #map2a
  * [Turn left.]
- ->G_3a
+    ->G_3a
  * [Keep straight.]
--> G_3b
+    -> G_3b
 
 === G_2b ===
 #ghost2b
 Passenger August enters your cab.
 #map2b
  * [Keep straight.]
- -> G_3b
+    -> G_3b
 
  * [Turn right.]
- -> G_3c
+    -> G_3c
 
 
 === G_3a ===
